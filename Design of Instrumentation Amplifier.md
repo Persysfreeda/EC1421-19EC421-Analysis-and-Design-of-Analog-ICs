@@ -61,7 +61,8 @@ waveforms are plotted in a graph sheet.
 
 ## GRAPH:
 
-![WhatsApp Image 2025-11-22 at 8 42 07 PM](https://github.com/user-attachments/assets/353b1d18-50c2-412f-9da3-803623fb8e0f)
+
+![WhatsApp Image 2025-11-22 at 8 45 48 PM](https://github.com/user-attachments/assets/95447d82-86b3-47bc-9475-374cef3ed227)
 
  ## RESULTS:
  Thus an instrumentation amplifier was constructed and  tested using op
