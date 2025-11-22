@@ -49,7 +49,8 @@ We get , R1 =  and hence Rf =
 ## MODEL GRAPH
 
 
-![WhatsApp Image 2025-11-22 at 8 47 48 PM](https://github.com/user-attachments/assets/b19bce8b-794a-40a9-a43e-4cd3185c8e52)
+
+![WhatsApp Image 2025-11-22 at 8 48 33 PM](https://github.com/user-attachments/assets/608212e4-670a-4629-9e57-096061d7d659)
 
 
 ## PROCEDURE:
@@ -63,7 +64,8 @@ are plotted in a graph sheet.
 
 ## TABULATION:
 
-![WhatsApp Image 2025-11-22 at 8 48 33 PM](https://github.com/user-attachments/assets/cc0b05b6-297c-4570-a398-cf23681cebb5)
+
+![WhatsApp Image 2025-11-22 at 8 48 10 PM](https://github.com/user-attachments/assets/b5da1b4f-053e-4233-bc3d-511473d26ad2)
 
 
 
