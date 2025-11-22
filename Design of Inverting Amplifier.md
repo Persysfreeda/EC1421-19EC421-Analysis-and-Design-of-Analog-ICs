@@ -31,12 +31,15 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 ## CIRCUIT DIAGRAM:
 
 
- ![WhatsApp Image 2025-11-22 at 8 48 10 PM](https://github.com/user-attachments/assets/6568da4c-33bc-466a-a216-6cb633661fb7)
+
+ ![WhatsApp Image 2025-11-22 at 8 54 13 PM](https://github.com/user-attachments/assets/941bcd6c-015f-44de-afaa-e10b2bfc3c70)
+
 
 
 ## MODEL GRAPH:
 
-![WhatsApp Image 2025-11-22 at 8 54 13 PM](https://github.com/user-attachments/assets/75aa3a82-3338-4df7-a5f1-f6d7f7dfa7a7)
+![WhatsApp Image 2025-11-22 at 8 54 25 PM](https://github.com/user-attachments/assets/13039048-d5bd-4939-8b24-a1419e6dc06f)
+
 
 
 ## PROCEDURE:
@@ -52,15 +55,13 @@ Choose  R1 = 1kΩ, Rf=10kΩ
    
 ## TABULATION:
 
-
-![WhatsApp Image 2025-11-22 at 8 54 25 PM](https://github.com/user-attachments/assets/b5ea4eea-c8d4-49fc-ba13-500543ff979a)
+![WhatsApp Image 2025-11-22 at 8 54 52 PM](https://github.com/user-attachments/assets/65fa6205-13d3-460a-aff9-ac557a15a973)
 
 
 ## CALCULATIONS:
 
-![WhatsApp Image 2025-11-22 at 8 54 52 PM](https://github.com/user-attachments/assets/ccb63a82-5786-40cc-b24a-2e738521ef8d)
+![WhatsApp Image 2025-11-22 at 8 55 08 PM](https://github.com/user-attachments/assets/30c82e54-f7c5-4369-a2e9-cbb5393e9854)
 
- 
 
 ## GRAPH:
 
