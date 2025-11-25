@@ -111,7 +111,8 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
 ![WhatsApp Image 2025-11-25 at 12 45 27 PM](https://github.com/user-attachments/assets/a551ebe7-fc8a-4fa4-abf6-eb444b6ce39e)
 
 ## BAND-PASS
-![Uploading WhatsApp Image 2025-11-25 at 12.45.51 PM.jpeg…]()
+![WhatsApp Image 2025-11-25 at 12 45 51 PM](https://github.com/user-attachments/assets/dc9b6ba0-8f7b-4ec3-8ab4-6c8a0aef728c)
+
 
  ## RESULTS:
 Thus an Active Low pass, High pass and Band Pass Filters are designed and 
