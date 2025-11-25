@@ -66,7 +66,7 @@ graph to  get approximately the same characteristic as shown in the model graph.
 1. Select the lower and higher cut-off frequency and calculate the value of R & C for the given 
 frequencies. 
 2. Design for LPF & HPF separately and then combine the circuit by first placing the HPF 
-followed by a LPF (i.e) HPF in series with LPF. 
+followed by a LPF (i.e) HPF in series with LPF 
 3. Connect the circuit as shown in the circuit diagram. 
 4. Apply a constant voltage input sinusoidal signal to the non-inverting terminal of op-amp. 
 5. Tabulate the output voltage Vo with respect to different values of input frequency. 
